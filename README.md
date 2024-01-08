@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SanketSuradkar
+- 👋 Hi, I’m Sanket Suradkar
 - 👀 I’m interested in Coding and in Sports 
 - 🌱 I’m currently learning Everything 😆
-- 📫 How to reach me ... <i class="fa-brands fa-instagram">https://www.instagram.com/morningstar_2026/</i>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+- 📫 How to reach me- <a href="https://www.instagram.com/morningstar_2026/" style="text-decoration: none;">Instagram</a>
 
 
    ![excited-dog](https://github.com/SanketSuradkar/SanketSuradkar/assets/68096112/e9adc6bf-c682-432b-9267-07330c6e1c91)
