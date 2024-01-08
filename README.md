@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @SanketSuradkar
 - 👀 I’m interested in Coding and in Sports 
 - 🌱 I’m currently learning full stack
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://www.instagram.com/morningstar_2026/
 
 
 
-# I love Python
-print(monty_python.gif)
+
 
 
 
