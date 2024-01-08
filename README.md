@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanketSuradkar
 - 👀 I’m interested in Coding and in Sports 
-- 🌱 I’m currently learning full stack
+- 🌱 I’m currently learning Everything 😆
 - 📫 How to reach me ... https://www.instagram.com/morningstar_2026/
 
 
