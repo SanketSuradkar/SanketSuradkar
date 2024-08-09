@@ -8,7 +8,10 @@
   <a href="https://github.com/SanketSuradkar"><img src="https://img.shields.io/github/followers/SanketSuradkar?label=Follow&style=social"></a>
   <a href="https://www.linkedin.com/in/sanket-suradkar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="https://portfolio2026.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=internet-explorer"></a>
+    <a href="https://github.com/SanketSuradkar"><img src="https://komarev.com/ghpvc/?username=SanketSuradkar&color=blue&style=flat"></a>
+
 </p>
+
 
 ---
 
