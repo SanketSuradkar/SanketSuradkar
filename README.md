@@ -21,7 +21,7 @@ I'm Sanket Suradkar, a final year Computer Engineering student at KJCOEMR with a
 
 ---
 
-### 🛠️ My Skills
+### 🛠️ My Skills 
 
 #### 🌐 Web Development
 <p align="center">
