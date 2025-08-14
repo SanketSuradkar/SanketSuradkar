@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm Sanket Suradkar, a final year Computer Engineering student at KJCOEMR with a passion for coding and problem-solving. I have a strong background in web development and software development, with hands-on experience in various technologies.
+I’m Sanket Suradkar, a driven Computer Engineering student passionate about turning ideas into impactful digital solutions. With a solid foundation in web and software development, I enjoy building projects that combine clean design, efficient code, and real-world functionality. Always eager to learn and adapt, I thrive in solving complex problems and exploring innovative technologies that push boundaries.
 
 ---
 
