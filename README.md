@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I’m Sanket Suradkar, a driven Computer Engineering student passionate about turning ideas into impactful digital solutions. With a solid foundation in web and software development, I enjoy building projects that combine clean design, efficient code, and real-world functionality. Always eager to learn and adapt, I thrive in solving complex problems and exploring innovative technologies that push boundaries.
+I’m Sanket Suradkar, a Computer Engineering graduate passionate about crafting impactful digital solutions. With expertise in web development and software development, I create applications that blend clean design, efficient code, and real-world usability. Adaptable and curious, I enjoy tackling complex problems and exploring emerging technologies to deliver innovative results.
 
 ---
 
